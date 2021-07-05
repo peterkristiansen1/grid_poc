@@ -1,0 +1,3016 @@
+{
+  "rows": [
+    {
+      "daughter": "Vestas Global",
+      "account": 11304301,
+      "invoice": 19899,
+      "amount": 39609
+    },
+    {
+      "daughter": "Zulauf - Spinka",
+      "account": 57298475,
+      "invoice": 60478,
+      "amount": 1078
+    },
+    {
+      "daughter": "Runolfsdottir LLC",
+      "account": 28256805,
+      "invoice": 33560,
+      "amount": 32942
+    },
+    {
+      "daughter": "Gleichner - Cruick",
+      "account": 18134752,
+      "invoice": 45178,
+      "amount": 89199
+    },
+    {
+      "daughter": "Luettgen, Crona a",
+      "account": 73996507,
+      "invoice": 76393,
+      "amount": 68813
+    },
+    {
+      "daughter": "Leo Day 1",
+      "account": 11304301,
+      "invoice": 35462,
+      "amount": 58809
+    },
+    {
+      "daughter": "Leo Day 1",
+      "account": 11304301,
+      "invoice": 1706,
+      "amount": 4607
+    },
+    {
+      "daughter": "Leo Day 1",
+      "account": 11304301,
+      "invoice": 5095,
+      "amount": 15138
+    },
+    {
+      "daughter": "Leo Day 1",
+      "account": 11304301,
+      "invoice": 69370,
+      "amount": 97563
+    },
+    {
+      "daughter": "Leo Day 1",
+      "account": 11304301,
+      "invoice": 44099,
+      "amount": 96679
+    },
+    {
+      "daughter": "Leo Day 1",
+      "account": 11304301,
+      "invoice": 79288,
+      "amount": 77811
+    },
+    {
+      "daughter": "Leo Day 1",
+      "account": 11304301,
+      "invoice": 45544,
+      "amount": 15472
+    },
+    {
+      "daughter": "Leo Day 1",
+      "account": 11324513,
+      "invoice": 73480,
+      "amount": 68660
+    },
+    {
+      "daughter": "Leo Day 1",
+      "account": 11324513,
+      "invoice": 47237,
+      "amount": 77784
+    },
+    {
+      "daughter": "Leo Day 1",
+      "account": 11324513,
+      "invoice": 26244,
+      "amount": 23050
+    },
+    {
+      "daughter": "Leo Day 1",
+      "account": 11324513,
+      "invoice": 58199,
+      "amount": 70632
+    },
+    {
+      "daughter": "Leo Day 1",
+      "account": 11324513,
+      "invoice": 33450,
+      "amount": 94577
+    },
+    {
+      "daughter": "Leo Day 1",
+      "account": 11324513,
+      "invoice": 19491,
+      "amount": 93614
+    },
+    {
+      "daughter": "Hulda Barton 14",
+      "account": 11324513,
+      "invoice": 55455,
+      "amount": 6528
+    },
+    {
+      "daughter": "Hulda Barton 14",
+      "account": 11324513,
+      "invoice": 85885,
+      "amount": 37579
+    },
+    {
+      "daughter": "Hulda Barton 14",
+      "account": 11324513,
+      "invoice": 71103,
+      "amount": 85661
+    },
+    {
+      "daughter": "Hulda Barton 14",
+      "account": 11324513,
+      "invoice": 14571,
+      "amount": 27289
+    },
+    {
+      "daughter": "Hulda Barton 14",
+      "account": 11324513,
+      "invoice": 9320,
+      "amount": 59578
+    },
+    {
+      "daughter": "Hulda Barton 14",
+      "account": 11324513,
+      "invoice": 80617,
+      "amount": 8512
+    },
+    {
+      "daughter": "Hulda Barton 14",
+      "account": 11324513,
+      "invoice": 53064,
+      "amount": 61374
+    },
+    {
+      "daughter": "Hulda Barton 14",
+      "account": 11324513,
+      "invoice": 4317,
+      "amount": 33256
+    },
+    {
+      "daughter": "Hulda Barton 14",
+      "account": 11324513,
+      "invoice": 60673,
+      "amount": 44715
+    },
+    {
+      "daughter": "Hulda Barton 14",
+      "account": 11304301,
+      "invoice": 1771,
+      "amount": 74682
+    },
+    {
+      "daughter": "Hulda Barton 14",
+      "account": 11304301,
+      "invoice": 67056,
+      "amount": 15965
+    },
+    {
+      "daughter": "Hulda Barton 14",
+      "account": 11304301,
+      "invoice": 23803,
+      "amount": 48401
+    },
+    {
+      "daughter": "Hulda Barton 14",
+      "account": 11304301,
+      "invoice": 55440,
+      "amount": 9610
+    },
+    {
+      "daughter": "Hulda Barton 14",
+      "account": 11304301,
+      "invoice": 64291,
+      "amount": 59027
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 47448,
+      "amount": 81349
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 67599,
+      "amount": 90434
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 17618,
+      "amount": 16238
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 28898,
+      "amount": 192
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 57298475,
+      "invoice": 46936,
+      "amount": 53632
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 28256805,
+      "invoice": 17113,
+      "amount": 32942
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 18134752,
+      "invoice": 50727,
+      "amount": 89199
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 73996507,
+      "invoice": 76393,
+      "amount": 68813
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 35462,
+      "amount": 58809
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 1706,
+      "amount": 4607
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 5095,
+      "amount": 15138
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 69370,
+      "amount": 97563
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 44099,
+      "amount": 96679
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 79288,
+      "amount": 77811
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 45544,
+      "amount": 15472
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 73480,
+      "amount": 68660
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 47237,
+      "amount": 77784
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 26244,
+      "amount": 23050
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 58199,
+      "amount": 70632
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 33450,
+      "amount": 94577
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 19491,
+      "amount": 93614
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 55455,
+      "amount": 6528
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 85885,
+      "amount": 37579
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 71103,
+      "amount": 85661
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 14571,
+      "amount": 27289
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 9320,
+      "amount": 59578
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 80617,
+      "amount": 8512
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 53064,
+      "amount": 61374
+    },
+    {
+      "daughter": "Jeff Russell 28",
+      "account": 11304301,
+      "invoice": 4317,
+      "amount": 33256
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 60673,
+      "amount": 44715
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 1771,
+      "amount": 74682
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 67056,
+      "amount": 15965
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 23803,
+      "amount": 48401
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 55440,
+      "amount": 9610
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 64291,
+      "amount": 59027
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 47448,
+      "amount": 81349
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 67599,
+      "amount": 90434
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 17618,
+      "amount": 16238
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 28609,
+      "amount": 50025
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 57298475,
+      "invoice": 33456,
+      "amount": 37131
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 28256805,
+      "invoice": 60275,
+      "amount": 32942
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 18134752,
+      "invoice": 59535,
+      "amount": 89199
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 73996507,
+      "invoice": 76393,
+      "amount": 68813
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 35462,
+      "amount": 58809
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 1706,
+      "amount": 4607
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 5095,
+      "amount": 15138
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 69370,
+      "amount": 97563
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 44099,
+      "amount": 96679
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 79288,
+      "amount": 77811
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 45544,
+      "amount": 15472
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 73480,
+      "amount": 68660
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 47237,
+      "amount": 77784
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 26244,
+      "amount": 23050
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 58199,
+      "amount": 70632
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 33450,
+      "amount": 94577
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 19491,
+      "amount": 93614
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 55455,
+      "amount": 6528
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 85885,
+      "amount": 37579
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 71103,
+      "amount": 85661
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 14571,
+      "amount": 27289
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 9320,
+      "amount": 59578
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 80617,
+      "amount": 8512
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 53064,
+      "amount": 61374
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 4317,
+      "amount": 33256
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 60673,
+      "amount": 44715
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 1771,
+      "amount": 74682
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 67056,
+      "amount": 15965
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 23803,
+      "amount": 48401
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 55440,
+      "amount": 9610
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 64291,
+      "amount": 59027
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 47448,
+      "amount": 81349
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 67599,
+      "amount": 90434
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 17618,
+      "amount": 16238
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 11304301,
+      "invoice": 16341,
+      "amount": 34762
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 57298475,
+      "invoice": 20716,
+      "amount": 11588
+    },
+    {
+      "daughter": "Thomas Figueroa 22",
+      "account": 28256805,
+      "invoice": 21297,
+      "amount": 32942
+    },
+    {
+      "daughter": "Gleichner - Cruick",
+      "account": 18134752,
+      "invoice": 54356,
+      "amount": 89199
+    },
+    {
+      "daughter": "Luettgen, Crona a",
+      "account": 73996507,
+      "invoice": 76393,
+      "amount": 68813
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 35462,
+      "amount": 58809
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 1706,
+      "amount": 4607
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 5095,
+      "amount": 15138
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 69370,
+      "amount": 97563
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 44099,
+      "amount": 96679
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 79288,
+      "amount": 77811
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 45544,
+      "amount": 15472
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 73480,
+      "amount": 68660
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 47237,
+      "amount": 77784
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 26244,
+      "amount": 23050
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 58199,
+      "amount": 70632
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 33450,
+      "amount": 94577
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 19491,
+      "amount": 93614
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 55455,
+      "amount": 6528
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 85885,
+      "amount": 37579
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 71103,
+      "amount": 85661
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 14571,
+      "amount": 27289
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 9320,
+      "amount": 59578
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 80617,
+      "amount": 8512
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 53064,
+      "amount": 61374
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 4317,
+      "amount": 33256
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 60673,
+      "amount": 44715
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 1771,
+      "amount": 74682
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 67056,
+      "amount": 15965
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 23803,
+      "amount": 48401
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 55440,
+      "amount": 9610
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 64291,
+      "amount": 59027
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 47448,
+      "amount": 81349
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 67599,
+      "amount": 90434
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 17618,
+      "amount": 16238
+    },
+    {
+      "daughter": "Sean Parks 1",
+      "account": 11304301,
+      "invoice": 48599,
+      "amount": 7364
+    },
+    {
+      "daughter": "Zulauf - Spinka",
+      "account": 57298475,
+      "invoice": 30855,
+      "amount": 35943
+    },
+    {
+      "daughter": "Zulauf - Spinka",
+      "account": 57298476,
+      "invoice": 30856,
+      "amount": 32423
+    },
+    {
+      "daughter": "Runolfsdottir LLC",
+      "account": 28256805,
+      "invoice": 9445,
+      "amount": 32942
+    },
+    {
+      "daughter": "Gleichner - Cruick",
+      "account": 18134752,
+      "invoice": 29562,
+      "amount": 89199
+    },
+    {
+      "daughter": "Luettgen, Crona a",
+      "account": 73996507,
+      "invoice": 76393,
+      "amount": 68813
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 35462,
+      "amount": 58809
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 1706,
+      "amount": 4607
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 5095,
+      "amount": 15138
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 69370,
+      "amount": 97563
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 44099,
+      "amount": 96679
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 79288,
+      "amount": 77811
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 45544,
+      "amount": 15472
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 73480,
+      "amount": 68660
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 47237,
+      "amount": 77784
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 26244,
+      "amount": 23050
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 58199,
+      "amount": 70632
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 33450,
+      "amount": 94577
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 19491,
+      "amount": 93614
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 55455,
+      "amount": 6528
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 85885,
+      "amount": 37579
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 71103,
+      "amount": 85661
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 14571,
+      "amount": 27289
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 9320,
+      "amount": 59578
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 80617,
+      "amount": 8512
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 53064,
+      "amount": 61374
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 4317,
+      "amount": 33256
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 60673,
+      "amount": 44715
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 1771,
+      "amount": 74682
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 67056,
+      "amount": 15965
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 23803,
+      "amount": 48401
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 55440,
+      "amount": 9610
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 64291,
+      "amount": 59027
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 47448,
+      "amount": 81349
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 67599,
+      "amount": 90434
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 17618,
+      "amount": 16238
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 46651,
+      "amount": 6150
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304302,
+      "invoice": 46652,
+      "amount": 123123
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 57298475,
+      "invoice": 2979,
+      "amount": 47905
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 28256805,
+      "invoice": 26800,
+      "amount": 32942
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 18134752,
+      "invoice": 8865,
+      "amount": 89199
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 73996507,
+      "invoice": 76393,
+      "amount": 68813
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 35462,
+      "amount": 58809
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 1706,
+      "amount": 4607
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 5095,
+      "amount": 15138
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 69370,
+      "amount": 97563
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 44099,
+      "amount": 96679
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 79288,
+      "amount": 77811
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 45544,
+      "amount": 15472
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 73480,
+      "amount": 68660
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 47237,
+      "amount": 77784
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 26244,
+      "amount": 23050
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 58199,
+      "amount": 70632
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 33450,
+      "amount": 94577
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 19491,
+      "amount": 93614
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 55455,
+      "amount": 6528
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 85885,
+      "amount": 37579
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 71103,
+      "amount": 85661
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 14571,
+      "amount": 27289
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 9320,
+      "amount": 59578
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 80617,
+      "amount": 8512
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 53064,
+      "amount": 61374
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 4317,
+      "amount": 33256
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 60673,
+      "amount": 44715
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 1771,
+      "amount": 74682
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 67056,
+      "amount": 15965
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 23803,
+      "amount": 48401
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 55440,
+      "amount": 9610
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 64291,
+      "amount": 59027
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 47448,
+      "amount": 81349
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 67599,
+      "amount": 90434
+    },
+    {
+      "daughter": "Max Miller 3",
+      "account": 11304301,
+      "invoice": 17618,
+      "amount": 16238
+    },
+    {
+      "daughter": "Vestas Global",
+      "account": 11304302,
+      "invoice": 54969,
+      "amount": 9683
+    },
+    {
+      "daughter": "Zulauf - Spinka",
+      "account": 57298475,
+      "invoice": 9762,
+      "amount": 8157
+    },
+    {
+      "daughter": "Runolfsdottir LLC",
+      "account": 28256805,
+      "invoice": 35210,
+      "amount": 32942
+    },
+    {
+      "daughter": "Gleichner - Cruick",
+      "account": 18134752,
+      "invoice": 46116,
+      "amount": 89199
+    },
+    {
+      "daughter": "Luettgen, Crona a",
+      "account": 73996507,
+      "invoice": 76393,
+      "amount": 68813
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 35462,
+      "amount": 58809
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 1706,
+      "amount": 4607
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 5095,
+      "amount": 15138
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 69370,
+      "amount": 97563
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 44099,
+      "amount": 96679
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 79288,
+      "amount": 77811
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 45544,
+      "amount": 15472
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 73480,
+      "amount": 68660
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 47237,
+      "amount": 77784
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 26244,
+      "amount": 23050
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 58199,
+      "amount": 70632
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 33450,
+      "amount": 94577
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 19491,
+      "amount": 93614
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 55455,
+      "amount": 6528
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 85885,
+      "amount": 37579
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 71103,
+      "amount": 85661
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 14571,
+      "amount": 27289
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 9320,
+      "amount": 59578
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 80617,
+      "amount": 8512
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 53064,
+      "amount": 61374
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 4317,
+      "amount": 33256
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 60673,
+      "amount": 44715
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 1771,
+      "amount": 74682
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 67056,
+      "amount": 15965
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 23803,
+      "amount": 48401
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 55440,
+      "amount": 9610
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 64291,
+      "amount": 59027
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 47448,
+      "amount": 81349
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 67599,
+      "amount": 90434
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 17618,
+      "amount": 16238
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304302,
+      "invoice": 6140,
+      "amount": 58150
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 57298475,
+      "invoice": 45894,
+      "amount": 422
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 28256805,
+      "invoice": 22044,
+      "amount": 32942
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 18134752,
+      "invoice": 21841,
+      "amount": 89199
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 73996507,
+      "invoice": 76393,
+      "amount": 68813
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 35462,
+      "amount": 58809
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 1706,
+      "amount": 4607
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 5095,
+      "amount": 15138
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 69370,
+      "amount": 97563
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 44099,
+      "amount": 96679
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 79288,
+      "amount": 77811
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 45544,
+      "amount": 15472
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 73480,
+      "amount": 68660
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 47237,
+      "amount": 77784
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 26244,
+      "amount": 23050
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 58199,
+      "amount": 70632
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 33450,
+      "amount": 94577
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 19491,
+      "amount": 93614
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 55455,
+      "amount": 6528
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 85885,
+      "amount": 37579
+    },
+    {
+      "daughter": "Corey Parker 1",
+      "account": 11304301,
+      "invoice": 71103,
+      "amount": 85661
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 14571,
+      "amount": 27289
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 9320,
+      "amount": 59578
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 80617,
+      "amount": 8512
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 53064,
+      "amount": 61374
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 4317,
+      "amount": 33256
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 60673,
+      "amount": 44715
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 1771,
+      "amount": 74682
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 67056,
+      "amount": 15965
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 23803,
+      "amount": 48401
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 55440,
+      "amount": 9610
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 64291,
+      "amount": 59027
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 47448,
+      "amount": 81349
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 67599,
+      "amount": 90434
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 17618,
+      "amount": 16238
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304302,
+      "invoice": 43776,
+      "amount": 53999
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 57298475,
+      "invoice": 30068,
+      "amount": 55583
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 28256805,
+      "invoice": 40071,
+      "amount": 32942
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 18134752,
+      "invoice": 32142,
+      "amount": 89199
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 73996507,
+      "invoice": 76393,
+      "amount": 68813
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 35462,
+      "amount": 58809
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 1706,
+      "amount": 4607
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 5095,
+      "amount": 15138
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 69370,
+      "amount": 97563
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 44099,
+      "amount": 96679
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 79288,
+      "amount": 77811
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 45544,
+      "amount": 15472
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 73480,
+      "amount": 68660
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 47237,
+      "amount": 77784
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 26244,
+      "amount": 23050
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 58199,
+      "amount": 70632
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 33450,
+      "amount": 94577
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 19491,
+      "amount": 93614
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 55455,
+      "amount": 6528
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 85885,
+      "amount": 37579
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 71103,
+      "amount": 85661
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 14571,
+      "amount": 27289
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 9320,
+      "amount": 59578
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 80617,
+      "amount": 8512
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 53064,
+      "amount": 61374
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 4317,
+      "amount": 33256
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 60673,
+      "amount": 44715
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 1771,
+      "amount": 74682
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 67056,
+      "amount": 15965
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 23803,
+      "amount": 48401
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 55440,
+      "amount": 9610
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 64291,
+      "amount": 59027
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 47448,
+      "amount": 81349
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 67599,
+      "amount": 90434
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 17618,
+      "amount": 16238
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304302,
+      "invoice": 39160,
+      "amount": 44286
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 57298475,
+      "invoice": 11189,
+      "amount": 20457
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 28256805,
+      "invoice": 54411,
+      "amount": 32942
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 18134752,
+      "invoice": 3986,
+      "amount": 89199
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 73996507,
+      "invoice": 76393,
+      "amount": 68813
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 35462,
+      "amount": 58809
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 1706,
+      "amount": 4607
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 5095,
+      "amount": 15138
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 69370,
+      "amount": 97563
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 44099,
+      "amount": 96679
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 79288,
+      "amount": 77811
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 45544,
+      "amount": 15472
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 73480,
+      "amount": 68660
+    },
+    {
+      "daughter": "Bill Owens 17",
+      "account": 11304301,
+      "invoice": 47237,
+      "amount": 77784
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 26244,
+      "amount": 23050
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 58199,
+      "amount": 70632
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 33450,
+      "amount": 94577
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 19491,
+      "amount": 93614
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 55455,
+      "amount": 6528
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 85885,
+      "amount": 37579
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 71103,
+      "amount": 85661
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 14571,
+      "amount": 27289
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 9320,
+      "amount": 59578
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 80617,
+      "amount": 8512
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 53064,
+      "amount": 61374
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 4317,
+      "amount": 33256
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 60673,
+      "amount": 44715
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 1771,
+      "amount": 74682
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 67056,
+      "amount": 15965
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 23803,
+      "amount": 48401
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 55440,
+      "amount": 9610
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 64291,
+      "amount": 59027
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 47448,
+      "amount": 81349
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 67599,
+      "amount": 90434
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 17618,
+      "amount": 16238
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304302,
+      "invoice": 55367,
+      "amount": 30609
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 57298475,
+      "invoice": 56412,
+      "amount": 37458
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 28256805,
+      "invoice": 15713,
+      "amount": 32942
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 18134752,
+      "invoice": 50418,
+      "amount": 89199
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 73996507,
+      "invoice": 76393,
+      "amount": 68813
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 35462,
+      "amount": 58809
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 1706,
+      "amount": 4607
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 5095,
+      "amount": 15138
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 69370,
+      "amount": 97563
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 44099,
+      "amount": 96679
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 79288,
+      "amount": 77811
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 45544,
+      "amount": 15472
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 73480,
+      "amount": 68660
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 47237,
+      "amount": 77784
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 26244,
+      "amount": 23050
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 58199,
+      "amount": 70632
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 33450,
+      "amount": 94577
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 19491,
+      "amount": 93614
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 55455,
+      "amount": 6528
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 85885,
+      "amount": 37579
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 71103,
+      "amount": 85661
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 14571,
+      "amount": 27289
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 9320,
+      "amount": 59578
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 80617,
+      "amount": 8512
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 53064,
+      "amount": 61374
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 4317,
+      "amount": 33256
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 60673,
+      "amount": 44715
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 1771,
+      "amount": 74682
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 67056,
+      "amount": 15965
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 23803,
+      "amount": 48401
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 55440,
+      "amount": 9610
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 64291,
+      "amount": 59027
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 47448,
+      "amount": 81349
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 67599,
+      "amount": 90434
+    },
+    {
+      "daughter": "Dustin Goodwin 10",
+      "account": 11304301,
+      "invoice": 17618,
+      "amount": 16238
+    },
+    {
+      "daughter": "Vestas Global",
+      "account": 11304302,
+      "invoice": 27162,
+      "amount": 36073
+    },
+    {
+      "daughter": "Zulauf - Spinka",
+      "account": 57298475,
+      "invoice": 12601,
+      "amount": 7700
+    },
+    {
+      "daughter": "Runolfsdottir LLC",
+      "account": 28256805,
+      "invoice": 8355,
+      "amount": 32942
+    },
+    {
+      "daughter": "Gleichner - Cruick",
+      "account": 18134752,
+      "invoice": 8572,
+      "amount": 89199
+    },
+    {
+      "daughter": "Luettgen, Crona a",
+      "account": 73996507,
+      "invoice": 76393,
+      "amount": 68813
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 35462,
+      "amount": 58809
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 1706,
+      "amount": 4607
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 5095,
+      "amount": 15138
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 69370,
+      "amount": 97563
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 44099,
+      "amount": 96679
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 79288,
+      "amount": 77811
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 45544,
+      "amount": 15472
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 73480,
+      "amount": 68660
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 47237,
+      "amount": 77784
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 26244,
+      "amount": 23050
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 58199,
+      "amount": 70632
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 33450,
+      "amount": 94577
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 19491,
+      "amount": 93614
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 55455,
+      "amount": 6528
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 85885,
+      "amount": 37579
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 71103,
+      "amount": 85661
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 14571,
+      "amount": 27289
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 9320,
+      "amount": 59578
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 80617,
+      "amount": 8512
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 53064,
+      "amount": 61374
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 4317,
+      "amount": 33256
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 60673,
+      "amount": 44715
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 1771,
+      "amount": 74682
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 67056,
+      "amount": 15965
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 23803,
+      "amount": 48401
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 55440,
+      "amount": 9610
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 64291,
+      "amount": 59027
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 47448,
+      "amount": 81349
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 67599,
+      "amount": 90434
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 17618,
+      "amount": 16238
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 23423,
+      "amount": 18722
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 57298475,
+      "invoice": 42227,
+      "amount": 822
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 28256805,
+      "invoice": 13007,
+      "amount": 32942
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 18134752,
+      "invoice": 2505,
+      "amount": 89199
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 73996507,
+      "invoice": 76393,
+      "amount": 68813
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 35462,
+      "amount": 58809
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 1706,
+      "amount": 4607
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 5095,
+      "amount": 15138
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 69370,
+      "amount": 97563
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 44099,
+      "amount": 96679
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 79288,
+      "amount": 77811
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 45544,
+      "amount": 15472
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 73480,
+      "amount": 68660
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 47237,
+      "amount": 77784
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 26244,
+      "amount": 23050
+    },
+    {
+      "daughter": "Johnny Chapman 3",
+      "account": 11304301,
+      "invoice": 58199,
+      "amount": 70632
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 33450,
+      "amount": 94577
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 19491,
+      "amount": 93614
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 55455,
+      "amount": 6528
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 85885,
+      "amount": 37579
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 71103,
+      "amount": 85661
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 14571,
+      "amount": 27289
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 9320,
+      "amount": 59578
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 80617,
+      "amount": 8512
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 53064,
+      "amount": 61374
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 4317,
+      "amount": 33256
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 60673,
+      "amount": 44715
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 1771,
+      "amount": 74682
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 67056,
+      "amount": 15965
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 23803,
+      "amount": 48401
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 55440,
+      "amount": 9610
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 64291,
+      "amount": 59027
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 47448,
+      "amount": 81349
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 67599,
+      "amount": 90434
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 17618,
+      "amount": 16238
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 23421,
+      "amount": 23734
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 57298475,
+      "invoice": 4927,
+      "amount": 8432
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 28256805,
+      "invoice": 37840,
+      "amount": 32942
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 18134752,
+      "invoice": 55052,
+      "amount": 89199
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 73996507,
+      "invoice": 76393,
+      "amount": 68813
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 35462,
+      "amount": 58809
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 1706,
+      "amount": 4607
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 5095,
+      "amount": 15138
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 69370,
+      "amount": 97563
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 44099,
+      "amount": 96679
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 79288,
+      "amount": 77811
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 45544,
+      "amount": 15472
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 73480,
+      "amount": 68660
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 47237,
+      "amount": 77784
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 26244,
+      "amount": 23050
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 58199,
+      "amount": 70632
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 33450,
+      "amount": 94577
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 19491,
+      "amount": 93614
+    },
+    {
+      "daughter": "Tommy Wilson 14",
+      "account": 11304301,
+      "invoice": 55455,
+      "amount": 6528
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 11304301,
+      "invoice": 85885,
+      "amount": 37579
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 11304301,
+      "invoice": 71103,
+      "amount": 85661
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 11304301,
+      "invoice": 14571,
+      "amount": 27289
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 11304301,
+      "invoice": 9320,
+      "amount": 59578
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 11304301,
+      "invoice": 80617,
+      "amount": 8512
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 11304301,
+      "invoice": 53064,
+      "amount": 61374
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 11304301,
+      "invoice": 4317,
+      "amount": 33256
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 11304301,
+      "invoice": 60673,
+      "amount": 44715
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 11304301,
+      "invoice": 1771,
+      "amount": 74682
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 11304301,
+      "invoice": 67056,
+      "amount": 15965
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 11304301,
+      "invoice": 23803,
+      "amount": 48401
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 11304301,
+      "invoice": 55440,
+      "amount": 9610
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 11304301,
+      "invoice": 64291,
+      "amount": 59027
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 11304301,
+      "invoice": 47448,
+      "amount": 81349
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 11304301,
+      "invoice": 67599,
+      "amount": 90434
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 11304301,
+      "invoice": 17618,
+      "amount": 16238
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 11304301,
+      "invoice": 23423,
+      "amount": 59797
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 57298475,
+      "invoice": 12312,
+      "amount": 26887
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 28256805,
+      "invoice": 53173,
+      "amount": 32942
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 18134000,
+      "invoice": 10000,
+      "amount": 89199
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 73996507,
+      "invoice": 76393,
+      "amount": 68813
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 11304301,
+      "invoice": 35462,
+      "amount": 58809
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 11304301,
+      "invoice": 1706,
+      "amount": 4607
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 11304301,
+      "invoice": 5095,
+      "amount": 15138
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 11304301,
+      "invoice": 69370,
+      "amount": 97563
+    },
+    {
+      "daughter": "Brandon Mack 15",
+      "account": 11304301,
+      "invoice": 44099,
+      "amount": 9667
+    }
+  ]
+}
